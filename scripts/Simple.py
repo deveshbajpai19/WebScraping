@@ -3,7 +3,7 @@ __author__ = 'Devesh Bajpai'
 '''
 Re-implementation of the Gazpacho tutorial for scraping a static HTML website
 
-Usage: python 
+Usage: python Simple.py
 '''
 from gazpacho import get, Soup
 
